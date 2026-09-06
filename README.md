@@ -850,7 +850,7 @@ OTP_MAX_ATTEMPTS=5
 
 ## License
 
-This is an academic/prototype project. No open-source license has been specified. For academic evaluation and demonstration purposes only.
+MIT LICENSE
 
 ---
 
