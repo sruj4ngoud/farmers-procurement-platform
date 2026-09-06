@@ -1,0 +1,47 @@
+# Environment files (never commit secrets)
+.env
+.env.local
+.env.production
+backend/.env
+
+# Python virtual environments
+.venv/
+venv/
+backend/.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Node.js
+node_modules/
+frontend/dist/
+frontend/build/
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Database files
+*.db
+*.sqlite3
+.pgdata/
+
+# Freebuff / IDE
+.freebuff/
+.vscode/
+.idea/
+
+# Temporary files
+temp/
+tmp/
+*.tmp
